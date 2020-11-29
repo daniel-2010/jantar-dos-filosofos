@@ -10,4 +10,4 @@ O <b>Jantar dos filósofos</b> foi proposto por Dijkstra em 1965 como um problem
 Desta forma, desenvolvemos neste trabalho a implementação visual da solução proposta.
 
 Print da tela de execução:
-<img src="https://raw.githubusercontent.com/daniel-2010/jantar-dos-filosofos/main/src/Imagens/scren.png" width="100%" />
+<img src="https://raw.githubusercontent.com/daniel-2010/jantar-dos-filosofos/main/src/Imagens/screen.png" width="100%" />
