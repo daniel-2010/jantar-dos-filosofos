@@ -9,5 +9,10 @@ O <b>Jantar dos filósofos</b> foi proposto por Dijkstra em 1965 como um problem
 
 Desta forma, desenvolvemos neste trabalho a implementação visual da solução proposta.
 
-Print da tela de execução:
+<b>Pré requisitos para instalação:</b>
+
+* jdk-8u5-windows-x64
+* Netbeans IDE 8.0 (Esta é a minha IDE de utilização)
+
+<b>Print da tela em execução:</b>
 <img src="https://raw.githubusercontent.com/daniel-2010/jantar-dos-filosofos/main/src/Imagens/printscreen.png" width="100%" />
