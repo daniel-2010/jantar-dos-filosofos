@@ -1,6 +1,6 @@
 # Jantar dos Filósofos
 
-Este projeto é um trabalho feito para o curso de Ciência da Computação no <b>Instituto Federal do Sul de Minas Gerais - Campus Muzambinho</b>.
+
 
 O <b>Jantar dos filósofos</b> foi proposto por Dijkstra em 1965 como um problema de sincronização. O problema é definido como: 
 <br />
